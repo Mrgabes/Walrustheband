@@ -1,0 +1,58 @@
+.top5songs {
+width: 50%;
+float: left;
+background-color: rgb(80, 80, 211) ;
+border: solid 3px rgb(228, 75, 75);
+padding: 4px;
+
+
+}
+img {
+  float: right;
+}
+body {
+  background-image: url("https://media4.giphy.com/media/EX3WTn0d3EuA0/giphy.gif?cid=ecf05e47hx0qik3vqp4kohrz1ub292t0neb6s5hydnvuhibw&rid=giphy.gif&ct=g");
+  
+  
+
+ }
+ 
+ .container {
+   background-color:#fff;
+   width:80%;
+margin:auto;
+opacity: 0.5;
+ }
+ h1 {
+   color: whitesmoke
+  ;
+  text-align: center;
+ }
+ a {
+   color: whitesmoke;
+
+ }
+ .tour {
+   color: ;
+   font-size: 50px;
+   padding-top: 70px;
+ }
+ table,th, td {
+   font-size: 20px;
+   padding-top: 20px;
+   border: solid white 4px;
+   border-collapse: collapse;
+ }
+th {
+font-size: 200%;
+font-weight:bolder;
+background-color:rgba(255, 20, 147,.5);
+}
+td {
+background-color:rgba(120, 12, 120, .5);
+}
+table {
+  max-width:75%;
+  margin:auto;
+  margin-top:100px;
+}
