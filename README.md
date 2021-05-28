@@ -7,7 +7,7 @@ _________________________________________________
 
 # Description
 
-## A simple HTML and Javascript interface to show tour dates.:rage1:
+### A simple HTML and Javascript interface to show tour dates.:rage1:
 
 # Setup/Installation Requirments
 
@@ -20,12 +20,12 @@ _________________________________________________
 
  * No known bugs. If you find one please let us know    [Report Here](info@github.com) 
 
-  #License
+  # License
 
  [MIT](info@mit.edu)
 
  ## Copyright (c) 2021 Gabriel Rodriguez
 
- # Contact Information
+ ### Contact Information
  
- ## Gabriel Rodriguez [mrgabes72@gmail.com]Gabriel Rodriguez
+ ### Gabriel Rodriguez [mrgabes72@gmail.com]Gabriel Rodriguez
